@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MBC20-React-Portfolio/static/css/main.f6c3542c.chunk.css",
+    "main.js": "/MBC20-React-Portfolio/static/js/main.7caf214a.chunk.js",
+    "main.js.map": "/MBC20-React-Portfolio/static/js/main.7caf214a.chunk.js.map",
+    "runtime-main.js": "/MBC20-React-Portfolio/static/js/runtime-main.b5eecfeb.js",
+    "runtime-main.js.map": "/MBC20-React-Portfolio/static/js/runtime-main.b5eecfeb.js.map",
+    "static/css/2.b9dc4ed9.chunk.css": "/MBC20-React-Portfolio/static/css/2.b9dc4ed9.chunk.css",
+    "static/js/2.bda0a784.chunk.js": "/MBC20-React-Portfolio/static/js/2.bda0a784.chunk.js",
+    "static/js/2.bda0a784.chunk.js.map": "/MBC20-React-Portfolio/static/js/2.bda0a784.chunk.js.map",
+    "index.html": "/MBC20-React-Portfolio/index.html",
+    "static/css/2.b9dc4ed9.chunk.css.map": "/MBC20-React-Portfolio/static/css/2.b9dc4ed9.chunk.css.map",
+    "static/css/main.f6c3542c.chunk.css.map": "/MBC20-React-Portfolio/static/css/main.f6c3542c.chunk.css.map",
+    "static/js/2.bda0a784.chunk.js.LICENSE.txt": "/MBC20-React-Portfolio/static/js/2.bda0a784.chunk.js.LICENSE.txt",
+    "static/media/Viv.01acf137.png": "/MBC20-React-Portfolio/static/media/Viv.01acf137.png",
+    "static/media/font-awesome.min.css": "/MBC20-React-Portfolio/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5eecfeb.js",
+    "static/css/2.b9dc4ed9.chunk.css",
+    "static/js/2.bda0a784.chunk.js",
+    "static/css/main.f6c3542c.chunk.css",
+    "static/js/main.7caf214a.chunk.js"
+  ]
+}
