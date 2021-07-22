@@ -1,0 +1,39 @@
+@import "./mediaQuery.scss";
+
+* {
+  color: white;
+  font-family: "Poppins", Arial, sans-serif;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+}
+
+.app {
+  height: 100vh;
+  background-color: #131316;
+}
+
+.sections {
+  height: 90%;
+  position: relative;
+  top: 70px;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  height: 90%;
+  scroll-snap-align: start;
+}
+
+.btn {
+  background: #ffde59;
+  color: black;
+  font-size: 10px;
+  font-weight: bold;
+  padding: 0.4rem 1rem;
+  text-decoration: none;
+  border-radius: 3%;
+  float: center;
+}
